@@ -7,3 +7,4 @@ ERROR 3
 ![image](https://github.com/kesameji/Taller01-Snake/assets/169944506/e014e317-189b-4fa0-ab43-9c4cb34a37f2)
 ERROR 4
 ![image](https://github.com/kesameji/Taller01-Snake/assets/140031745/4f80800a-a359-4513-8cd6-1797ebd3ac0c)
+Se cambió el texto del botón de inicio de juego de "start game" a "GO", también se cambió el puntaje conseguido por cada fruta recogida (1 pt -> 2 pts)
